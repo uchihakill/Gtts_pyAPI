@@ -1,5 +1,5 @@
 # Gtts_pyAPI
-#### WARNING:the python environment in this repo made on linux mint so any other os it is recomanded to re make the env folder and use the requirements.txt do donload the require lib's
+
 ```markdown
 # Gtts_pyAPI
 
